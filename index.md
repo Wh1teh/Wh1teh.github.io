@@ -6,7 +6,7 @@
 
 **You can check out some of my projects at [my github profile](https://github.com/Wh1teh)**
 
-I have such epic stuff as:
+I have made epic stuff like:
 
 | description | technologies used |
 | ----------- | ----------------- |
